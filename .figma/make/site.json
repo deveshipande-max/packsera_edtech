@@ -1,0 +1,10 @@
+{
+  "description": "Discover personalized learning packages tailored to your budget and interests, empowering users to explore diverse topics and earn certificates.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
